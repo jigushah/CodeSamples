@@ -1,11 +1,10 @@
-This is redux stucture Example Code.
+This is redux stucture example code.
 
-In Redux,Application State is maintained in centralized store.
+In Redux, application State is maintained in centralized store.
 
-When User perform any action,That action trigger Perticular action(Action Type) with its payload(Action Data),
-According to that action type Reducer methods are called which update store data.
+When user performs any action, that action triggers particular action(Action Type) with its payload(Action Data),
+According to that action type reducer methods are called which updates store data.
 
-Everytime when reducer update store data,That changes reflect on every scene,where that data is used.
+Everytime when reducer updates store data, changes are reflected on every scene, where that data is used.
 
-In This Case,Booking Forms is the UserScreen,From that user trigger action,
-According to that action Method of booking reducer is called and datas are updated.
+In this case, Booking Forms is the UserScreen, From that user triggers action, according to that action Method of booking reducer is called and datas are updated.
