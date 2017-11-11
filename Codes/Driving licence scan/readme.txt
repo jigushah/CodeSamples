@@ -1,2 +1,1 @@
-I have used react-native-blink fro driving licence scan,In that first we have to set a key.
-and then it opens camera for license scan.all detail of owner is retrived in result.
+I have used react-native-blink for driving licence scan. This uses a libarary to scan images and display related information in result.
