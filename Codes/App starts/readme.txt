@@ -1,1 +1,1 @@
-I have found my way to optimize loading in application and improve user experience.
+This is to optimize performance by preloading assets and fonts and storing them in cache.
